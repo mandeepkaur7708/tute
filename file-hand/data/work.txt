@@ -1,0 +1,6 @@
+1) news and magazines
+2) gold rates
+3) counrty state and cities data
+4) api
+5) horoscope
+6) open post
